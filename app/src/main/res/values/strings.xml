@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CryptoApp</string>
+    <string name="error_message">An unknown error occurred</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image_detai">Image detai</string>
+    <string name="crypto_name">Crypto Name</string>
+    <string name="crypto_code">Crypto Code</string>
+    <string name="crypto_desc">Crypto Desc</string>
+    <string name="item_image_crypto">Item image crypto</string>
+</resources>

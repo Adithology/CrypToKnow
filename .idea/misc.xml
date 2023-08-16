@@ -1,0 +1,18 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TEKNIK INFORMATIKA UNIVERSITAS KOMPUTER/SEMESTER 6/Aplikasi Komputasi Bergerak/Tugas/Latihan 7 New/10119200Latihan7/app/src/main/res/layout/activity_main.xml" value="0.25677083333333334" />
+        <entry key="..\:/TEKNIK INFORMATIKA UNIVERSITAS KOMPUTER/SEMESTER 6/Aplikasi Komputasi Bergerak/Tugas/Latihan 7 New/10119200Latihan7/app/src/main/res/layout/fragment_detail.xml" value="0.25677083333333334" />
+        <entry key="..\:/TEKNIK INFORMATIKA UNIVERSITAS KOMPUTER/SEMESTER 6/Aplikasi Komputasi Bergerak/Tugas/Latihan 7 New/10119200Latihan7/app/src/main/res/layout/fragment_home.xml" value="0.25677083333333334" />
+        <entry key="..\:/TEKNIK INFORMATIKA UNIVERSITAS KOMPUTER/SEMESTER 6/Aplikasi Komputasi Bergerak/Tugas/Latihan 7 New/10119200Latihan7/app/src/main/res/layout/recycler_row_layout.xml" value="0.25677083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="corretto-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
